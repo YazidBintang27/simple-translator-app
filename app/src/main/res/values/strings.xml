@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTranslatorApp</string>
+    <string name="translator">Translator</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="translate">Translate</string>
+    <string name="translated_word">Translated word:</string>
+    <string name="translate_failed">Translate Failed</string>
+    <string name="model_failed">Model download failed</string>
+</resources>

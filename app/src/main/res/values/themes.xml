@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SimpleTranslatorApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnBackground">@color/black_on_background</item>
+    </style>
+
+    <style name="Theme.SimpleTranslatorApp" parent="Base.Theme.SimpleTranslatorApp" />
+</resources>
